@@ -1,5 +1,4 @@
 const { SlashCommandBuilder } = require('@discordjs/builders');
-const joiner = require('../../utils/connectVoice.js')
 const discordPlayer = require('discord-player');
 const { EmbedBuilder } = require('discord.js');
 const { QueryType } = require('discord-player');
